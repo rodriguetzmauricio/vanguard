@@ -1,0 +1,50 @@
+p{
+    font-size: 12px;
+    color: white !important;
+     
+}
+
+th{
+    border: solid 1px black !important;
+}
+td{
+    border: solid 1px black !important;
+}
+tr{
+    border: solid 1px black !important;
+}
+thead{
+    border: solid 1px black !important;
+}
+tbody{
+    border: solid 1px 1px 1px 1px black !important;
+}
+table{
+    border: solid 1px black !important;
+    text-align: center;
+    color: black !important;
+    background-color: white;
+}
+
+h6{
+    color: white !important;
+    text-align: center !important;
+}
+
+h5{
+    color: white !important;
+    text-align: center !important;  
+}
+
+.form-check{
+    margin-left: 50px;
+}
+.habilidades{
+    text-align: center !important;
+}
+.habilidades-especiales{
+    text-align: center !important;
+}
+.equipo{
+    text-align: center !important;
+}

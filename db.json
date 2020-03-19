@@ -1,0 +1,261 @@
+{
+  "Unidades": [
+    {
+      "id": 1,
+      "name": "Esclavo de Túnel",
+      "dadopoder": "--",
+      "clase": "Grunt",
+      "peana": "20mm",
+      "costo": "6pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "6",
+      "ataquederango": "-",
+      "armadura": "5",
+      "nervio": "7",
+      "heridas": "1",
+      "altura": "2",
+      "dañoderango": "-",
+      "dañocuerpoacuerpo": "2d8",
+      "alineamiento": "Maligno",
+      "equipo":"Puede tomar una lanza por + 1pt.",
+      "notas": "Lanza: los modelos con lanzas que no estén Enganchados con un modelo enemigo pero esteen a menos de 2 pulgadas de un  modelo aliado Enganchado otorgaran un dado adicional a sus ataques cuerpo a cuerpo. Solo se puede dar 1 dado de bonificación a un modelo de esta manera independientemente del número de lanzas dentro del alcance. Los modelos con lanzas que participan en una Acción de carga grupal no tienen que enfrentarse a modelos enemigos, sino que deben finalizar su movimiento dentro de 2 pulgadas de un modelo en el grupo que está involucrado"
+      
+    },
+    {
+      "id": 2,
+      "name": "Semi-Elfo Berserker",
+      "tipo": "Warrior",
+      "peana": "20mm",
+      "costo": "19pts",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Huscarle",
+      "tipo": "Warrior",
+      "peana": "25mm",
+      "costo": "15pts",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "name": "Levi",
+      "tipo": "Grunt",
+      "peana": "20mm",
+      "costo": "8pts",
+      "categoryId": 3
+    },
+    {
+      "name": "Shieldbreaker",
+      "tipo": "Warrior",
+      "peana": "20mm",
+      "costo": "14pts",
+      "categoryId": 3,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Hackpaw",
+      "dadopoder": "--",
+      "clase": "Support, Bestia",
+      "peana": "caballeria",
+      "costo": "19pts",
+      "categoryId": 1,
+      "velocidad": "7",
+      "ataquecuerpoacuerpo": "5",
+      "ataquederango": "-",
+      "armadura": "5",
+      "nervio": "6",
+      "heridas": "3",
+      "altura": "3",
+      "dañoderango": "-",
+      "dañocuerpoacuerpo": "2d8",
+      "alineamiento": "Maligno",
+      "habilidades": "Caballeria, Vicious"
+      
+    },
+    {
+      "id": 10,
+      "name": "Guerrero Ratkin",
+      "dadopoder": "--",
+      "clase": "Warrior",
+      "peana": "20mm",
+      "costo": "10pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "5",
+      "ataquederango": "5",
+      "armadura": "5",
+      "nervio": "6",
+      "heridas": "2",
+      "altura": "2",
+      "dañoderango": "1d8",
+      "dañocuerpoacuerpo": "2d8",
+      "alineamiento": "Maligno"
+      
+      
+    },
+    {
+      "id": 11,
+      "name": "Escurridor",
+      "dadopoder": "--",
+      "clase": "Support",
+      "peana": "20mm",
+      "costo": "24pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "6",
+      "ataquederango": "4",
+      "armadura": "6",
+      "nervio": "6",
+      "heridas": "2",
+      "altura": "2",
+      "dañoderango": "2d8",
+      "dañocuerpoacuerpo": "1d8",
+      "alineamiento": "Maligno",
+      "habilidades": "Dodge, Marksman, Scout",
+      "equipo":"Cuchillo arrojadizo (alcance 9 pulgadas)",
+      "HabilidadesEspeciales": "Fuego combinado: cuando participan en una Acción de Disparo grupal, los modelos de este tipo agregan +1 dados a su tirada de Ataque a distancia si uno o más modelos del mismo tipo disparan al mismo objetivo."
+
+    },
+    {
+      "id": 12,
+      "name": "Bruto",
+      "dadopoder": "Rojo",
+      "clase": "Large",
+      "peana": "40mm",
+      "costo": "31pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "5",
+      "ataquederango": "-",
+      "armadura": "5",
+      "nervio": "7",
+      "heridas": "5",
+      "altura": "3",
+      "dañoderango": "--",
+      "dañocuerpoacuerpo": "5d8",
+      "alineamiento": "Maligno",
+      "habilidades": "Crushing Strengh(2), Pound, Regenerate (6+)",
+      "equipo":"--",
+      "HabilidadesEspeciales": "--"
+
+    },
+    {
+      "id": 13,
+      "name": "Soldado de Choque",
+      "dadopoder": "--",
+      "clase": "Warrior",
+      "peana": "20mm",
+      "costo": "15pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "4",
+      "ataquederango": "6",
+      "armadura": "4",
+      "nervio": "6",
+      "heridas": "2",
+      "altura": "2",
+      "dañoderango": "1d8",
+      "dañocuerpoacuerpo": "2d8",
+      "alineamiento": "Maligno",
+      "habilidades": "--",
+      "equipo":"--",
+      "HabilidadesEspeciales": "--"
+
+    },
+    {
+      "id": 14,
+      "name": "Jefe de Guerra",
+      "dadopoder": "Azul",
+      "clase": "Comandante",
+      "peana": "20mm",
+      "costo": "35pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "4",
+      "ataquederango": "5",
+      "armadura": "4",
+      "nervio": "5",
+      "heridas": "3",
+      "altura": "2",
+      "dañoderango": "1d8",
+      "dañocuerpoacuerpo": "3d8",
+      "alineamiento": "Maligno",
+      "habilidades": "Crushing Strength(1), Inspiring, Steady",
+      "equipo":"--",
+      "HabilidadesEspeciales": "Blazing Parry (2): usa esta habilidad cuando un modelo enemigo toma represalias contra el jefe de guerra. El modelo enemigo no tira ningún dado y el ataque falla. El modelo enemigo está marcado como Activado y Fatigado."
+
+    },
+    {
+      "id": 15,
+      "name": "Terror Nocturno",
+      "dadopoder": "--",
+      "clase": "Large",
+      "peana": "40mm",
+      "costo": "26pts",
+      "categoryId": 1,
+      "velocidad": "7",
+      "ataquecuerpoacuerpo": "4",
+      "ataquederango": "--",
+      "armadura": "5",
+      "nervio": "6",
+      "heridas": "3",
+      "altura": "2",
+      "dañoderango": "--",
+      "dañocuerpoacuerpo": "3d8",
+      "alineamiento": "Maligno",
+      "habilidades": "Crushing Strength(1), Smash, Steady, Vicious",
+      "equipo":"--",
+      "HabilidadesEspeciales": "Rastrillo de garras (1): usa esta habilidad al hacer un ataque cuerpo a cuerpo, antes de que se lancen los dados. Agrega 1 al valor de crushing strenght de la modelo para este ataque cuerpo a cuerpo. Esta habilidad se puede usar cualquier cantidad de veces en cada ronda",
+      "notas":"Capacidad limitada: este modelo solo puede recibir equipo de tipo cuerpo a cuerpo"
+
+    },
+    {
+      "id": 16,
+      "name": "Brujo Ratkin",
+      "dadopoder": "Rojo",
+      "clase": "Spellcaster",
+      "peana": "20mm",
+      "costo": "32pts",
+      "categoryId": 1,
+      "velocidad": "6",
+      "ataquecuerpoacuerpo": "6",
+      "ataquederango": "4",
+      "armadura": "6",
+      "nervio": "5",
+      "heridas": "3",
+      "altura": "2",
+      "dañoderango": "1d8",
+      "dañocuerpoacuerpo": "1d8",
+      "alineamiento": "Maligno",
+      "habilidades": "Headstrong, Inspiring",
+      "conjuros": "Lightning Bolt (long), Shockwave (long), Stun (short), Zap (short)",
+      "equipo":"--",
+      "HabilidadesEspeciales": "Insane Power Surge (n): usa esta habilidad cuando este modelo se active durante uno de tus turnos. Declara cuánto poder se está gastando antes de lanzar cualquier hechizo. Por cada poder gastado, el brujo puede lanzar uno de los hechizos que conoce, independientemente de la duración de la acción. Los hechizos solo se pueden aumentar si cuesta energía adicional hacerlo. Resuelve los efectos de cada hechizo antes de lanzar el siguiente. Una vez que se lanzan todos los hechizos, el brujo se marca como activado y fatigado y tira 1d8 por cada hechizo que se lanzó. Por cada 6+ tiradas, el brujo sufre 1 herida automática sin armadura posible.",
+      "notas":"--"
+
+    }
+    
+
+  ],
+  "Categories": [
+    {
+      "id": "1",
+      "name": "Ratkin",
+      "description": "Ratkin Banda de Guerra"
+    },
+    {
+      "id": "2",
+      "name": "Alianza del Norte",
+      "description": "Alianza del Norte Banda de Guerra"
+    },
+    {
+      "id": "3",
+      "name": "Enanos",
+      "description": "Enanos Banda de Guerra"
+    }
+    
+  ]
+}
